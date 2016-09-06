@@ -1,0 +1,6 @@
+folder, clone, create new folder for files dgm 1160, select that folder, paste url from github into the url box, clone the repo
+
+
+in maya, file set protect, select destination. \
+
+add files, stage, write comment, commit, 
