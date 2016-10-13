@@ -1,0 +1,20 @@
+substance doesn't like anything more than fbx 2013 or above
+
+change it in advance options when exporting.
+type ascii
+
+
+file 
+new substance
+standard
+1024x1024
+
+select material, click and drag to node editor, nodes on right side are inputs, nodes on left are outputs. 
+
+connect the nodes. 
+to make visable right click graphic, view in 3d view, select material. 
+
+
+add another to make your side walks by right clicking the material and select the 
+
+
